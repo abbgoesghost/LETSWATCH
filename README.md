@@ -27,7 +27,6 @@ No account needed just a url and youre good to go.
 
 ![Screenshot 1](screenshots/interface.png)
 
-![Screenshot 2](screenshots/novid.png)
 
 ![Screenshot logs](screenshots/logs.png)
 
@@ -70,7 +69,7 @@ No account needed just a url and youre good to go.
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/)
-- npm
+- npm (with node bundel)
 
 ### Installation
 
